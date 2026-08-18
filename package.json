@@ -1,0 +1,21 @@
+
+```json
+{
+  "name": "root-insurance",
+  "version": "1.0.0",
+  "description": "Root Insurance - Expense and Receipt Management App",
+  "main": "src/index/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "author": "Your A/C Name",
+  "license": "MIT"
+}
